@@ -14,7 +14,7 @@ using System.Reflection;
     "e-inheritance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77f874fa49e132f7da530fec6c3d62f954d4c1ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7720fbf1ab5449a3e2d0798a0dfc87875cce730c")]
 [assembly: System.Reflection.AssemblyProductAttribute("19AI308-Object-Oriented-Programming-using-CSharp--Exp-8-Name-Hiding-with-interfac" +
     "e-inheritance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("19AI308-Object-Oriented-Programming-using-CSharp--Exp-8-Name-Hiding-with-interfac" +
